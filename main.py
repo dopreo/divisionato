@@ -11,7 +11,7 @@ def divisionato(number=0):
         numberIsEven = True
     else:
         print("divisionato(): number is odd")
-        numberIsEven = Talse
+        numberIsEven = False
     
     if numberIsEven:
         for i in range(number):
